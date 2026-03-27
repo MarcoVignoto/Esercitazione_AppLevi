@@ -40,16 +40,16 @@ class _MySocialAppState extends State<MySocialApp> {
   ];
 
   final List<String> imagesPath = [
-    'images/user_01.png',
-    'images/user_02.jpg',
-    'images/user_03.png',
-    'images/user_04.webp',
-    'images/user_05.webp',
-    'images/user_06.png',
-    'images/user_07.png',
-    'images/user_08.jpg',
-    'images/user_09.webp',
-    'images/user_10.png',
+    'assets/user_01.png',
+    'assets/user_02.jpg',
+    'assets/user_03.png',
+    'assets/user_04.webp',
+    'assets/user_05.webp',
+    'assets/user_06.png',
+    'assets/user_07.png',
+    'assets/user_08.jpg',
+    'assets/user_09.webp',
+    'assets/user_10.png',
   ];
 
   @override
